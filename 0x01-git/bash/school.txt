@@ -1,2 +1,1 @@
-#!/bin/bash
-echo "school  cool"
+the school is open
